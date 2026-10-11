@@ -9,12 +9,12 @@
 * **Fecha:** Curso académico 2026-2027 (Junio 2026)
 * **Lugar de depósito:** Archivo Abierto Institucional de la URJC (**BURJC Digital**) - <https://burjcdigital.urjc.es/>
 * **Preservación de código fuente (Software Heritage):**
-  * Código fuente depositado en [Software Heritage](https://www.softwareheritage.org/) para garantizar el acceso abierto, la preservación a largo plazo y la reproducibilidad científica.
-  * **SWHID:** `PENDIENTE_DE_REGISTRO_SWHID` *(Pendiente de incorporar el identificador SWHID definitivo tras el archivado)*
+  * Código fuente depositado y preservado en [Software Heritage](https://www.softwareheritage.org/) para garantizar el acceso abierto permanente, la reproducibilidad computacional y la integridad del software científico.
+  * **Identificador persistente (SWHID):** [`swh:1:dir:85b3015deeb96b2949cfbeea61e1558c1c8b9504`](https://archive.softwareheritage.org/swh:1:dir:85b3015deeb96b2949cfbeea61e1558c1c8b9504;origin=https://github.com/URJCDSLab/OptimizacionAnalisisRedes_software;visit=swh:1:snp:ebc85597ce189b4bf17381fae325419b947cdb24;anchor=swh:1:rev:a16debd4c8b8c2d4c16f297bfd3d401fbee0f2af)
+  * **Identificador contextual completo:** `swh:1:dir:85b3015deeb96b2949cfbeea61e1558c1c8b9504;origin=https://github.com/URJCDSLab/OptimizacionAnalisisRedes_software;visit=swh:1:snp:ebc85597ce189b4bf17381fae325419b947cdb24;anchor=swh:1:rev:a16debd4c8b8c2d4c16f297bfd3d401fbee0f2af`
+  * **Enlace permanente al archivo:** <https://archive.softwareheritage.org/swh:1:dir:85b3015deeb96b2949cfbeea61e1558c1c8b9504;origin=https://github.com/URJCDSLab/OptimizacionAnalisisRedes_software;visit=swh:1:snp:ebc85597ce189b4bf17381fae325419b947cdb24;anchor=swh:1:rev:a16debd4c8b8c2d4c16f297bfd3d401fbee0f2af>
 
-<!-- Plantilla de insignia de Software Heritage (descomentar y actualizar con el SWHID definitivo):
-<a href="https://archive.softwareheritage.org/swh:1:dir:<ID>;origin=https://github.com/URJCDSLab/OptimizacionAnalisisRedes_software"><img src="https://archive.softwareheritage.org/badge/swh:1:dir:<ID>/" alt="Archived | swh:1:dir:<ID>"/></a>
--->
+[![Archived on Software Heritage](https://archive.softwareheritage.org/badge/swh:1:dir:85b3015deeb96b2949cfbeea61e1558c1c8b9504/)](https://archive.softwareheritage.org/swh:1:dir:85b3015deeb96b2949cfbeea61e1558c1c8b9504;origin=https://github.com/URJCDSLab/OptimizacionAnalisisRedes_software;visit=swh:1:snp:ebc85597ce189b4bf17381fae325419b947cdb24;anchor=swh:1:rev:a16debd4c8b8c2d4c16f297bfd3d401fbee0f2af)
 
 ---
 
