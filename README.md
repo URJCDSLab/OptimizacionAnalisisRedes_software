@@ -4,7 +4,7 @@
 
 * **Título:** Optimización y Análisis de Redes - Programas de Ordenador (Laboratorios Prácticos en Python)
 * **Autores:** Víctor Aceña Gil y Antonio Alonso Ayuso
-* **Asignatura:** Optimización y Análisis de Redes
+* **Asignatura:** Optimización y Análisis de Redes (Asignatura optativa de 4.º curso)
 * **Titulación:** Grado en Matemáticas (Escuela Técnica Superior de Ingeniería Informática, Universidad Rey Juan Carlos)
 * **Fecha:** Curso académico 2026-2027 (Junio 2026)
 * **Lugar de depósito:** Archivo Abierto Institucional de la URJC (**BURJC Digital**) - <https://burjcdigital.urjc.es/>
