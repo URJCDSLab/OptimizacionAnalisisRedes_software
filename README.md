@@ -3,7 +3,7 @@
 **Material docente en abierto de la Universidad Rey Juan Carlos**
 
 * **Título:** Optimización y Análisis de Redes - Programas de Ordenador (Laboratorios Prácticos en Python)
-* **Autores:** Víctor Aceña Gil y Antonio Alonso Ayuso
+* **Autores:** Víctor Aceña Gil, Antonio Alonso Ayuso, Javier Martínez Moguerza y Emilio López Cano
 * **Asignatura:** Optimización y Análisis de Redes (Asignatura optativa de 4.º curso)
 * **Titulación:** Grado en Matemáticas (Escuela Técnica Superior de Ingeniería Informática, Universidad Rey Juan Carlos)
 * **Fecha:** Curso académico 2026-2027 (Junio 2026)
@@ -144,7 +144,7 @@ En cumplimiento de lo dispuesto en el Anexo III.4 y el Anexo VI de la *Convocato
 
 ## 6. Derechos de Autor y Licencia
 
-**Copyright © 2026 Víctor Aceña Gil, Antonio Alonso Ayuso.**
+**Copyright © 2026 Víctor Aceña Gil, Antonio Alonso Ayuso, Javier Martínez Moguerza, Emilio López Cano.**
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Licencia de Creative Commons" style="border-width:0"/></a>
 
