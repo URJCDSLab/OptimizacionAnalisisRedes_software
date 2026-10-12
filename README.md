@@ -8,6 +8,7 @@
 * **Titulación:** Grado en Matemáticas (Escuela Técnica Superior de Ingeniería Informática, Universidad Rey Juan Carlos)
 * **Fecha:** Curso académico 2026-2027 (Junio 2026)
 * **Lugar de depósito:** Archivo Abierto Institucional de la URJC (**BURJC Digital**) - <https://burjcdigital.urjc.es/>
+* **Identificador persistente / Handle:** [`https://hdl.handle.net/10115/[PENDIENTE]`](https://burjcdigital.urjc.es/) *(pendiente de asignación tras el depósito)*
 * **Preservación de código fuente (Software Heritage):**
   * Código fuente depositado y preservado en [Software Heritage](https://www.softwareheritage.org/) para garantizar el acceso abierto permanente, la reproducibilidad computacional y la integridad del software científico.
   * **Identificador persistente (SWHID):** [`swh:1:dir:85b3015deeb96b2949cfbeea61e1558c1c8b9504`](https://archive.softwareheritage.org/swh:1:dir:85b3015deeb96b2949cfbeea61e1558c1c8b9504;origin=https://github.com/URJCDSLab/OptimizacionAnalisisRedes_software;visit=swh:1:snp:ebc85597ce189b4bf17381fae325419b947cdb24;anchor=swh:1:rev:a16debd4c8b8c2d4c16f297bfd3d401fbee0f2af)
